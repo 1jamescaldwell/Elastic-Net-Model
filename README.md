@@ -1,4 +1,4 @@
-This repository contains R code for predicting housing prices using elastic net regression. Here's a brief overview of the contents: <br>
+This repository contains R code for predicting housing prices using elastic net regression. <br>
 
 * Data Preparation: The provided R script loads the training and test datasets (realestate-train.csv and realestate-test.csv respectively) and prepares them for modeling. It converts the CentralAir column to numerical, and performs dummy encoding for the HouseStyle and BldgType columns.
 
